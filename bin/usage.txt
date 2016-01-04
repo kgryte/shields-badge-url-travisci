@@ -1,0 +1,13 @@
+
+Usage: shields-travisci --owner=<owner> --repo=<repo> [options]
+
+Options:
+
+  -h,  --help                Print this message.
+  -V,  --version             Print the package version.
+       --owner owner         Repository owner.
+       --repo repo           Repository name.
+       --branch branch       Repository branch. Default: 'master'.
+       --style style         Badge style. Default: 'flat'.
+       --format format       Badge format. Default: 'svg'.
+
